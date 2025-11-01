@@ -1,5 +1,2 @@
-In this  workshop we will cover..........
-ls
-demo.txt
-git init
-ctrl c
+some changes 25cs036
+demo ma change karyu
